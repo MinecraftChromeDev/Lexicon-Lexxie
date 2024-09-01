@@ -143,6 +143,33 @@
     background: transparent;
     opacity: 1.00;
 }
+.paragraph_style_5 {
+    background: rgb(198, 198, 198);
+    color: rgb(0, 0, 0);
+    font-family: 'ArialRoundedMTBold', 'Arial Rounded MT Bold', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_5 {
+    background: transparent url(backgroundimage_1.jpg) no-repeat scroll center center;
+    opacity: 1.00;
+}
 .Body {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -246,11 +273,43 @@
 .graphic_textbox_layout_style_default_External_123_35 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_295_35 {
+    position: relative;
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.bumper {
+#widget0 .Timer_Labels {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget0 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+.spacer {
     font-size: 1px;
     line-height: 1px;
 }
@@ -258,7 +317,7 @@
     font-size: 1px;
     line-height: 1px;
 }
-.spacer {
+.bumper {
     font-size: 1px;
     line-height: 1px;
 }
