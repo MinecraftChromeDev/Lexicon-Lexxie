@@ -103,9 +103,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_630_787 {
-    position: relative;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -113,9 +110,6 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_630_51 {
-    position: relative;
 }
 .paragraph_style_4 {
     color: rgb(198, 198, 198);
@@ -142,6 +136,12 @@
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_630_51 {
+    position: relative;
+}
+.style_External_630_812 {
+    position: relative;
 }
 .paragraph_style_5 {
     background: rgb(198, 198, 198);
@@ -217,7 +217,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_630_787 {
+.Normal_External_630_812 {
     position: relative;
 }
 .Normal_External_630_51 {
